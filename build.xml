@@ -1,5 +1,5 @@
 <project name = "JUnitExample2" default = "test" basedir = ".">
-   <property name = "testdir" location = "test" />
+   <property name = "testdir" location = "src/com/javawithease/testcase" />
    <property name = "srcdir" location = "src" />
    <property name = "full-compile" value = "true" />
 	
